@@ -1,3 +1,2 @@
-#1/usr/bin/env python
-print('hello,world.')
-
+Git is a distributed version control system.
+Git is free sofware.
